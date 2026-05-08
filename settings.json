@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Online",
     "password": "",
-    "type": "mojang"
+    "type": "offline"
   },
   "server": {
     "ip": "vibez.aternos.me",
